@@ -1,13 +1,13 @@
 # Uso de script con Frontend
 ### Abrimos el archivo index.html en un servidor local
 ### Vista:
-![[index_ss.png]]
+<img width="958" alt="index_ss" src="https://user-images.githubusercontent.com/99093357/185172407-7d5713a4-3bdd-4733-a162-1b166d39c27a.png">
 ### Clickeamos en cualquiera de los dos botones
 ### Vista con buscar:
-![[buscar_ss.png]]
+<img width="941" alt="buscar_ss" src="https://user-images.githubusercontent.com/99093357/185172542-2f8ede90-c56a-4386-b3d2-a77b344e6b34.png">
 ##### Muestra los primeros 50 resultados del item en la búsqueda
 ### Vista con top 1000:
-![[top1000_ss.png]]
+<img width="941" alt="top1000_ss" src="https://user-images.githubusercontent.com/99093357/185172589-5e952b7b-c3a9-4908-9365-3483fbbcb6d5.png">
 ##### Muestra mil resultados, cada uno por scroll
 
 
